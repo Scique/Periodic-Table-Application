@@ -184,7 +184,7 @@ public class maininterface {
                 int w = 0;
                 while(w == 0){
                     answer = elementarray[i].Searche(textfield.getText());
-                    if(!answer.equals("Query not found")){
+                    if(!answer.equals("Query not found")||i > 116){
                         w = 1;
                         String[] answerarray = answer.split("&");
                         queryname.setText(answerarray[0]);

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Periodic-Table-Application:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Periodic_Table_Application_jar</output-path>
+    <root id="archive" name="Periodic-Table-Application.jar">
+      <element id="module-output" name="Periodic-Table-Application" />
+    </root>
+  </artifact>
+</component>

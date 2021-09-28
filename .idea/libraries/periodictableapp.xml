@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="periodictableapp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/periodictableapp/out/artifacts/periodictableapp_jar/periodictableapp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
