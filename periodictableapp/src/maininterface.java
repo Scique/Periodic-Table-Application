@@ -228,6 +228,9 @@ public class maininterface {
                     }
                 }
             }
+            if(searchmode.equals("")){
+                queryname.setText("Choose which option you would like to search from first.");
+            }
             querypanel.setVisible(true);
             frame.repaint();
         });
