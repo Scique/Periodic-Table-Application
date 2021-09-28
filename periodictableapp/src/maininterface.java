@@ -178,7 +178,10 @@ public class maininterface {
         });
         // Adding actions to the buttons
         searchbutton.addActionListener(e -> {
-            // Write something here after doing the inside program
+            queryname.setText("");
+            queryatomicnumber.setText("");
+            queryrelativemass.setText("");
+            querysymbol.setText("");
             if(searchmode.equals("e")){
                 int i = 0;
                 int w = 0;
